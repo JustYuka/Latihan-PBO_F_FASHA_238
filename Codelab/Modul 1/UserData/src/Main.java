@@ -1,12 +1,11 @@
-
 import perpustakaan.*;
 
 public class Main {
     public static void main(String[] args) {
-        perpustakaan.Fiksi buku1 = new Fiksi("Semangkuk Mie Ayam", "(Andrea Hirata)");
-        perpustakaan.NonFiksi buku2 = new NonFiksi("Indomie Harga Mati", "(James Clear)");
-        perpustakaan.Fiksi buku3 = new Fiksi("Ambarawa", "(Andriana)");
-        Perpustakaan.NonFiksi buku4 = new NonFiksi("Ambatukam", "(Mr.Ironi)");
+        Fiksi buku1 = new Fiksi("Semangkuk Mie Ayam", "(Andrea Hirata)");
+        NonFiksi buku2 = new NonFiksi("Indomie Harga Mati", "(James Clear)");
+        Fiksi buku3 = new Fiksi("Ambarawa", "(Andriana)");
+        NonFiksi buku4 = new NonFiksi("Ambatukam", "(Mr.Ironi)");
 
         buku1.displayInfo();
         buku2.displayInfo();
