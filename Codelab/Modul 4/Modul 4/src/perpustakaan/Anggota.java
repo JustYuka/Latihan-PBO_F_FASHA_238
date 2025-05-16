@@ -1,6 +1,6 @@
 package perpustakaan;
 
-public class Anggota implements Peminjaman {
+public class Anggota implements perpustakaan.Peminjaman {
     private String nama;
     private String idAnggota;
 

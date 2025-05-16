@@ -1,12 +1,10 @@
-
-import perpustakaan.*;
-
+package app;
 public class Main {
     public static void main(String[] args) {
-        perpustakaan.Fiksi buku1 = new Fiksi("Semangkuk Mie Ayam", "(Andrea Hirata)");
-        perpustakaan.NonFiksi buku2 = new NonFiksi("Indomie Harga Mati", "(James Clear)");
-        perpustakaan.Fiksi buku3 = new Fiksi("Ambarawa", "(Andriana)");
-        Perpustakaan.NonFiksi buku4 = new NonFiksi("Ambatukam", "(Mr.Ironi)");
+        perpustakaan.Fiksi buku1 = new perpustakaan.Fiksi("Semangkuk Mie Ayam", "(Mr.Azril)");
+        perpustakaan.NonFiksi buku2 = new perpustakaan.NonFiksi("Indomie Harga Mati", "(Mr.Rusdi)");
+        perpustakaan.Fiksi buku3 = new perpustakaan.Fiksi("Ambarawa", "(Mr.Andriana)");
+        perpustakaan.NonFiksi buku4 = new perpustakaan.NonFiksi("Ambatukam", "(Mr.Ironi)");
 
         buku1.displayInfo();
         buku2.displayInfo();
@@ -15,7 +13,7 @@ public class Main {
 
         System.out.println();
 
-        Anggota anggota1 = new Anggota("Vero", "Vero121");
+        perpustakaan.Anggota anggota1 = new perpustakaan.Anggota("Vero", "Vero121");
         anggota1.displayInfo();
         anggota1.pinjamBuku("Semangkuk Mie Ayam");
         anggota1.pinjamBuku("Indomie Harga Mati", 7);
@@ -23,7 +21,7 @@ public class Main {
 
         System.out.println();
 
-        Anggota anggota2 = new Anggota("Yuka", "Yuka2211");
+        perpustakaan.Anggota anggota2 = new perpustakaan.Anggota("Yuka", "Yuka2211");
         anggota2.displayInfo();
         anggota2.pinjamBuku("Ambarawa");
         anggota2.pinjamBuku("Ambatukam", 7);

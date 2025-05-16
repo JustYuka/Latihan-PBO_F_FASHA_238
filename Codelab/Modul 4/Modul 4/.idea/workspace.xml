@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1782e8eb-746f-4bb9-b735-7c7aa49c98f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Modul 1/UserData/src/Anggota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Modul 1/UserData/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Modul 1/UserData/src/Peminjaman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/perpustakaan/Anggota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perpustakaan/Anggota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/perpustakaan/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perpustakaan/Buku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/perpustakaan/Fiksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perpustakaan/Fiksi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/perpustakaan/NonFiksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perpustakaan/NonFiksi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/perpustakaan/Peminjaman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/perpustakaan/Peminjaman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wlz8LonV40ramJjmlEMGeKvgGH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,16 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "D:/Tugas Coding/Codelab/Modul 4/Modul 4/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Tugas Coding/Codelab/Modul 4/Modul 4/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1782e8eb-746f-4bb9-b735-7c7aa49c98f9" name="Changes" comment="" />
